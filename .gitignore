@@ -1,0 +1,14 @@
+# for macos
+.DS_Store
+
+# for obsidian
+.obsidian
+.obsidian/
+
+# for nodejs
+node_modules/
+dist/
+
+# for lib data
+_lib/data/
+_lib/data
